@@ -1,0 +1,116 @@
+/*
+Global styles
+*/
+
+body {
+  margin: 0;
+  font-family: 'Source Code Pro', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+
+.stick_right{
+	position: absolute;
+	right: 4rem;
+}
+
+.btn{
+  font-size: larger;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+.btn:hover{
+	color: white;
+}
+.disabled{
+	opacity: 0.4;
+}
+
+
+@media (max-width: 992px){
+
+  .btn,.text_bold{
+    font-size: 14px;
+ }
+ 
+}
+
+@media (max-width: 768px){
+
+  h1{
+  	    font-size:2rem;
+  }
+  h3{
+  	   font-size: 1.2rem;
+  }
+  .text_bold{
+        font-size: 1.25vw;
+  }
+
+  .stick_right{
+    right: 3rem;
+  }
+}
+
+@media (max-width: 560px){
+  .btn{
+    font-size: 12px;
+  }
+  .text_bold{
+        font-size: 1.4vw;
+  }
+  .stick_right{
+    right: 2rem;
+  }
+}
+
+@media (max-width: 492px){
+  
+	   .btn{
+	    font-size: 10px;
+	 }
+	 h1{
+	 	font-size:1.5rem;
+	 }
+	 h3{
+	 	font-size: 1rem;
+	 }
+   .stick_right{
+    right: 1rem;
+  }
+}
+  @media (max-width: 420px){
+      .stick_right{
+        right: 0.7rem;
+      }
+      .text_bold{
+        font-size: 1.2vw;
+     }
+
+    }
+
+    @media (max-width: 368px){
+        .btn{
+          font-size: 3vw;
+       }
+       .text_bold{
+        font-size: 1vw;
+     }
+    
+  }
+  @media (max-width: 311px){
+        .btn{
+          font-size: 3vw;
+       }
+       .text_bold{
+        font-size: 2vw;
+     }
+  }
