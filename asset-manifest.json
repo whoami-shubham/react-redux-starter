@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-redux-starter/static/css/main.f55a06d4.chunk.css",
+    "main.js": "/react-redux-starter/static/js/main.57b857e3.chunk.js",
+    "main.js.map": "/react-redux-starter/static/js/main.57b857e3.chunk.js.map",
+    "runtime~main.js": "/react-redux-starter/static/js/runtime~main.9987f5e2.js",
+    "runtime~main.js.map": "/react-redux-starter/static/js/runtime~main.9987f5e2.js.map",
+    "static/js/2.e4e1c257.chunk.js": "/react-redux-starter/static/js/2.e4e1c257.chunk.js",
+    "static/js/2.e4e1c257.chunk.js.map": "/react-redux-starter/static/js/2.e4e1c257.chunk.js.map",
+    "index.html": "/react-redux-starter/index.html",
+    "precache-manifest.46714592f1c5f506fc1f49f4f3cf1b4b.js": "/react-redux-starter/precache-manifest.46714592f1c5f506fc1f49f4f3cf1b4b.js",
+    "service-worker.js": "/react-redux-starter/service-worker.js",
+    "static/css/main.f55a06d4.chunk.css.map": "/react-redux-starter/static/css/main.f55a06d4.chunk.css.map",
+    "static/media/logo.svg": "/react-redux-starter/static/media/logo.5d5d9eef.svg"
+  }
+}
