@@ -49,7 +49,7 @@ $ yarn start  # Start the development server (or `npm start`)
 │   ├── index.css            # Global Reusable Styles
 │   ├── components           # Global Reusable Components
 │   │   ├── Home             
-│   │   │   ├── Home.js      
+│   │   │   ├── Home.js      # Main application
 │   │   │   ├── Home.css     
 │   │   ├── Navbar            
 │   │   │   ├── Navbar.js     
